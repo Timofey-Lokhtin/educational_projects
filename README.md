@@ -1,6 +1,6 @@
 Данный репозиторий содержит проекты, выполненные во время моего обучения на аналитика данных в Яндекс Практикум.
 
-![-](https://github.com/Timofey-Lokhtin/educational_projects/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9B%D0%BE%D1%85%D1%82%D0%B8%D0%BD_2024-8874-012.pdf)
+![-](https://github.com/Timofey-Lokhtin/educational_projects/blob/main/Screenshot%202025-06-08%20130747.png)
 
 | №  | Наименование проекта  | Описание проекта | Стек |
 |:-- |:----------------------|:--------------|:-------------|
