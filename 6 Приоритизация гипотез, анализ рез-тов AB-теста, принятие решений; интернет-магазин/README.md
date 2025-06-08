@@ -4,16 +4,7 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
-
-
+A/B tests, Python, pandas, numpy, seaborn, plotly, scipy
 
 ## Вывод
 
