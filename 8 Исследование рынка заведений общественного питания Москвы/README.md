@@ -11,16 +11,7 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**LogisticRegression**
-- sklearn.ensemble.**RandomForestClassifier**
-- catboost.**CatBoostClassifier**
-
-
+Python, pandas, numpy, matplotlib, seaborn, plotly, folium
 
 ## Вывод
 
